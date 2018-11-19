@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const argv = require("yargs")
   .usage(
     "Get merge PRs included specific PR.\n\nUsage: get-merge-prs [options]"
