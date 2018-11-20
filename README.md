@@ -2,7 +2,17 @@
 
 Small GitHub API wrapper script.
 
+
+## Installation
+
 ```
+% npm i get-merge-prs -g
+```
+
+## Usage
+
+```
+% get-merge-prs --help
 Get merge PRs included specific PR.
 
 Usage: get-merge-prs [options]

@@ -10,25 +10,25 @@ const argv = require("yargs")
     github_api_token: {
       alias: "t",
       description:
-        "Put your GitHub Access Token. Get here https://github.com/settings/tokens",
+        "Your GitHub Access Token. Get here https://github.com/settings/tokens",
       requiresArg: true,
       required: true
     },
     owner: {
       alias: "o",
-      description: "Specify target repository owner.",
+      description: "Target repository owner.",
       requiresArg: true,
       required: true
     },
     repo: {
       alias: "r",
-      description: "Specify target repository name.",
+      description: "Target repository name.",
       requiresArg: true,
       required: true
     },
     pr: {
       alias: "p",
-      description: "Specify target pull request number.",
+      description: "Target pull request number.",
       requiresArg: true,
       required: true
     }
