@@ -2,7 +2,7 @@
 
 [![npm-version](https://img.shields.io/npm/v/get-merge-prs.svg?style=flat-square)](https://npmjs.org/package/get-merge-prs)
 
-Small GitHub API wrapper script.
+Small GitHub API wrapper CLI to get merge PRs included specific PR.
 
 
 ## Installation
