@@ -1,6 +1,6 @@
 {
   "name": "get-merge-prs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get merge PRs included specific PR",
   "bin": {
     "get-merge-prs": "bin/cli.js"
