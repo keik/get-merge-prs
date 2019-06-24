@@ -1,5 +1,7 @@
 # get-merge-prs
 
+[![npm-version](https://img.shields.io/npm/v/get-merge-prs.svg?style=flat-square)](https://npmjs.org/package/get-merge-prs)
+
 Small GitHub API wrapper script.
 
 
