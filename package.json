@@ -10,6 +10,10 @@
     "lint": "eslint ."
   },
   "author": "keik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keik/get-merge-prs.git"
+  },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
